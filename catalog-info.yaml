@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: core-module-26969
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/core-module-26969
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
